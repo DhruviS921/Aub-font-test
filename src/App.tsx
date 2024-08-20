@@ -1,9 +1,12 @@
 import './App.css'
+import Hero from './pages/Hero'
 
 function App() {
 
   return (
-   <h1>Aubergine Solutions - Font Test</h1>
+    <div className="App">
+      <Hero />
+    </div>
   )
 }
 
