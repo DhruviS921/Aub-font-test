@@ -22,7 +22,7 @@ const Header = () => {
       <Button
         buttonText="Let's Build"
         className="bg-purple text-white font-book text-small-para"
-        endIcon={<SvgArrowRight />}
+        endIcon={<SvgArrowRight stroke="#FFFFFF" />}
       />
     </div>
   );

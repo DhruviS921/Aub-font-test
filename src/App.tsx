@@ -1,11 +1,13 @@
 import './App.css'
+import AboutUs from './pages/AboutUs'
 import Hero from './pages/Hero'
 
 function App() {
 
   return (
-    <div className="App">
+    <div className="flex flex-col gap-1">
       <Hero />
+      <AboutUs />
     </div>
   )
 }

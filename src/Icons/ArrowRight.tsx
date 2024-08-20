@@ -1,8 +1,9 @@
 import * as React from 'react'
-import { JSX } from 'react/jsx-runtime'
 
-const SvgArrowRight = (props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>) => (
-  <svg
+const SvgArrowRight = ({
+  stroke = '#479F76',
+  ...props
+}: React.SVGProps<SVGSVGElement>) => (  <svg
     xmlns="http://www.w3.org/2000/svg"
     width={25}
     height={24}
@@ -10,7 +11,7 @@ const SvgArrowRight = (props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEle
     {...props}
   >
     <path
-      stroke="#FFF"
+      stroke={stroke}
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={2}

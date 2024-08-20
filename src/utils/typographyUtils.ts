@@ -31,6 +31,22 @@ const TYPOGRAPHY_UTILS = {
         letterSpacing: '2%',
       },
     ],
+    'header-3': [
+      '32px',
+      {
+        fontWeight: 500,
+        lineHeight: '46px',
+        letterSpacing: '2%',
+      },
+    ],
+    'paragraph': [
+      '48px',
+      {
+        fontWeight: 400,
+        lineHeight: '70px',
+        letterSpacing: '2%',
+      },
+    ],
   }
   
   export default TYPOGRAPHY_UTILS
