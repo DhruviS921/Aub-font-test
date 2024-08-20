@@ -15,6 +15,8 @@ export default {
       'purple': '#524FF4',
       "black": "#000000",
       'white': '#FFFFFF',
+      'light-gray': '#F2F4F7',
+      'gray': '#5E5D65',
     },
     fontSize: TYPOGRAPHY_UTILS,
     spacing: generateSpacers(50, 8),

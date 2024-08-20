@@ -47,6 +47,22 @@ const TYPOGRAPHY_UTILS = {
         letterSpacing: '2%',
       },
     ],
+    'header-4-cta': [
+      '24px',
+      {
+        fontWeight: 500,
+        lineHeight: '34px',
+        letterSpacing: '2%',
+      },
+    ],
+    'small-para-cta': [
+      '16px',
+      {
+        fontWeight: 400,
+        lineHeight: '26px',
+        letterSpacing: '2%',
+      },
+    ],
   }
   
   export default TYPOGRAPHY_UTILS
