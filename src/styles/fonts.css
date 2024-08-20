@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'book';
-    src: url('assets/fonts/Book/Book19.ttf') format('truetype');
+    src: url('fonts/Book/Book19.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'medium';
-    src: url('assets/fonts/Medium/Medium19.ttf') format('truetype');
+    src: url('fonts/Medium/Medium19.ttf') format('truetype');
     font-style: normal;
   }
