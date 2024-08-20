@@ -1,12 +1,4 @@
 const TYPOGRAPHY_UTILS = {
-    'small-para': [
-      '16px',
-      {
-        fontWeight: 400,
-        lineHeight: '26px',
-        letterSpacing: '2%',
-      },
-    ],
     't1-title': [
       '76px',
       {
