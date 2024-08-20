@@ -17,6 +17,8 @@ export default {
       'white': '#FFFFFF',
       'light-gray': '#F2F4F7',
       'gray': '#5E5D65',
+      'dark-black': '#110F1C',
+      'blue': '#191726'
     },
     fontSize: TYPOGRAPHY_UTILS,
     spacing: generateSpacers(50, 8),
