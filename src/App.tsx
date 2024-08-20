@@ -3,6 +3,7 @@ import AboutUs from './pages/AboutUs'
 import CaseStudy from './pages/CaseStudy'
 import Hero from './pages/Hero'
 import Solutions from './pages/Solutions'
+import Stats from './pages/Stats'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <AboutUs />
       <Solutions />
       <CaseStudy />
+      <Stats />
     </div>
   )
 }

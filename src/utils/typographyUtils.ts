@@ -15,7 +15,7 @@ const TYPOGRAPHY_UTILS = {
         letterSpacing: '2%',
       },
     ],
-    't2-title-2': [
+    'display': [
       '96px',
       {
         fontWeight: 400,
@@ -52,6 +52,14 @@ const TYPOGRAPHY_UTILS = {
       {
         fontWeight: 500,
         lineHeight: '34px',
+        letterSpacing: '2%',
+      },
+    ],
+    'header-5-cta': [
+      '16px',
+      {
+        fontWeight: 500,
+        lineHeight: '26px',
         letterSpacing: '2%',
       },
     ],
