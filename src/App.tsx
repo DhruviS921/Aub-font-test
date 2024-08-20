@@ -1,5 +1,6 @@
 import './App.css'
 import AboutUs from './pages/AboutUs'
+import CaseStudy from './pages/CaseStudy'
 import Hero from './pages/Hero'
 import Solutions from './pages/Solutions'
 
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <AboutUs />
       <Solutions />
+      <CaseStudy />
     </div>
   )
 }
