@@ -3,7 +3,7 @@ import Tagline from "./Tagline"
 
 const index = () => {
   return (
-    <div className="flex flex-col font-book">
+    <div className="flex flex-col ">
       <Header />
       <Tagline />
     </div>

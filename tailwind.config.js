@@ -24,9 +24,9 @@ export default {
     fontSize: TYPOGRAPHY_UTILS,
     spacing: generateSpacers(50, 8),
     fontFamily: {
-      'book': ['book'],
-      'medium': ['medium'],
-    },
+      'book': ['book', 'sans-serif'],
+      'medium': ['medium', 'sans-serif'],
+    }
   },
   plugins: [],
 }

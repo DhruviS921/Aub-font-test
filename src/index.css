@@ -6,4 +6,6 @@
 
 body {
     background-color: #FFFFFF;
+    font-family: 'book';
+    font-feature-settings: 'liga' 1; /* Enables common ligatures */
 }

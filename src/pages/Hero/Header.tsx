@@ -21,7 +21,7 @@ const Header = () => {
       </div>
       <Button
         buttonText="Let's Build"
-        className="bg-purple text-white text-small-para px-2 py-[10px]"
+        className="bg-purple text-white text-small-para-cta px-2 py-[10px]"
         endIcon={<SvgArrowRight stroke="#FFFFFF" />}
       />
     </div>
