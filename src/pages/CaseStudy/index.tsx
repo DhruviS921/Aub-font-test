@@ -2,7 +2,7 @@ import Pill from "../../components/Pill";
 
 const index = () => {
   return (
-    <div className="my-11 font-book">
+    <div className="my-11 ">
       <div className="pl-12 pb-12 w-[60%] flex flex-col gap-2">
         <p className="text-paragraph-cta text-purple">Cubii</p>
         <div className="flex gap-1">
