@@ -12,7 +12,7 @@ const index = () => {
       </p>
       <Button
         buttonText="Case Studies"
-        className="bg-none text-paragraph-cta text-purple px-0 w-fit py-0"
+        className="bg-none text-paragraph-cta text-purple w-fit font-book"
         endIcon={<SvgArrowRight stroke="#524FF4" />}
       />
     </div>

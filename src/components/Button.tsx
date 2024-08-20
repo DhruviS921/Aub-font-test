@@ -4,7 +4,7 @@ const Button = (
     }
 ) => {
   return (
-    <button className={`px-2 py-[10px] ${className} gap-[6px] flex items-center w-fit`}>{startIcon}{buttonText}{endIcon}</button>
+    <button className={`${className} gap-[6px] flex items-center w-fit`}>{startIcon}{buttonText}{endIcon}</button>
   )
 }
 

@@ -1,6 +1,6 @@
 const Tagline = () => {
   return (
-    <div className='px-12 pt-16 flex justify-between font-book'>
+    <div className='px-12 pt-16 flex justify-between'>
         <div className="text-t1-title">
             <p> Exceed the </p>
             <p className="pl-20 relative after:block after:w-7 after:h-1 after:bg-aqua after:ml-45 after:-mt-2">expected</p>
