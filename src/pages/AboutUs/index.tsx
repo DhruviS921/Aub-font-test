@@ -5,7 +5,7 @@ const index = () => {
   return (
     <div className="mt-21 mx-12 mb-12 flex flex-col gap-3">
       <p className="text-header-3 font-medium">About Us</p>
-      <p className=" text-paragraph w-[60%]">
+      <p className=" text-paragraph w-[60%] font-light">
         Aubergine is a global digital transformation partner dedicated to
         building the next generation of digital products through strategic
         product consultation.

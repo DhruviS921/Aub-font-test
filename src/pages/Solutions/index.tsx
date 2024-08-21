@@ -8,7 +8,7 @@ const index = () => {
       <div className="flex flex-col gap-15 p-6">
         <div className="flex flex-col gap-3">
           <p className="text-header-4-cta font-medium">Experience Design</p>
-          <p className="w-[80%] text-paragraph-cta text-gray  leading-9">
+          <p className="w-[80%] text-paragraph-cta text-gray leading-9 font-light">
             Through human-centric design principles, we create intuitive and
             impactful user experiences that enhance customer satisfaction and
             loyalty, ultimately driving business success.

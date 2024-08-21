@@ -5,7 +5,7 @@ const SectionTitle = () => {
   return (
     <div className="px-12 w-[60%] gap-3 flex flex-col">
       <p className="text-header-3 font-medium">Solutions for Every Business</p>
-      <p className="text-paragraph ">
+      <p className="text-paragraph font-light">
         Our ecosystem of design, engineering, branding, and business experts
         serves as your partner.
       </p>
