@@ -10,7 +10,7 @@ const index = () => {
           <Pill textContent="Strategy" />
           <Pill textContent="Development" />
         </div>
-        <p className="text-paragraph">
+        <p className="text-paragraph font-light">
           Cubii made fitness accessible, we made their fitness app accessible
         </p>
       </div>
