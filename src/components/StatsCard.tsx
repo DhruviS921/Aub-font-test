@@ -14,7 +14,7 @@ const StatsCard = ({
       </p>
       <p className="text-header-5-cta font-medium">
         {subTitle} <br />
-        <span className="text-small-para-cta ">{description}</span>
+        <span className="text-small-para-cta font-book">{description}</span>
       </p>
     </div>
   );
