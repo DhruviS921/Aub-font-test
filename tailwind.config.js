@@ -26,6 +26,7 @@ export default {
     fontFamily: {
       'book': ['book', 'sans-serif'],
       'medium': ['medium', 'sans-serif'],
+      'light': ['light', 'sans-serif'],
     }
   },
   plugins: [],
